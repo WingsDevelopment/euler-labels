@@ -277,5 +277,13 @@
 		"social": {
 			"twitter": "yieldnestfi"
 		}
+	},
+	"securitize": {
+		"name": "Securitize",
+		"description": "Securitize is a leader in tokenizing real-world assets, providing compliant digital securities infrastructure.",
+		"url": "https://securitize.io/",
+		"social": {
+			"twitter": "Securitize"
+		}
 	}
 }

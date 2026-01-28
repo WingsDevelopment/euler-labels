@@ -1,4 +1,14 @@
 {
+	"securitize": {
+		"name": "Securitize",
+		"description": "Tokenized real-world asset vaults powered by Securitize infrastructure.",
+		"entity": "securitize",
+		"type": "securitize",
+		"vaults": [
+			"0xdB6856e8478DB159c383a0c4b274E259AF83cB15",
+			"0xdae9216e77fef9cfae15b57783d99c99b66de0d1"
+		]
+	},
 	"euler-prime": {
 		"name": "Euler Prime",
 		"description": "A market tailored to borrowing stable assets against blue chip crypto assets. Governed by Euler DAO.",
